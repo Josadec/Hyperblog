@@ -2,7 +2,11 @@ body
 {
   font-family: Arial;
   text-align: center;
+<<<<<<< HEAD
   color:blue;
+=======
+  color:red;
+>>>>>>> master
 
 }
 #container{
