@@ -3,7 +3,10 @@ body
   font-family: Arial;
   text-align: center;
   color:blue;
-
+  background: #1e1f24;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
 }
 #container{
   width: 50%;
@@ -28,9 +31,18 @@ body
   padding: 0.5em;
   box-shadow: 5px 5px 4px -4px rgba(0,0,0,0.75);
 }
+#cabecera #logo{
+  width: 20px;
+  vertical-align: middle;
+}
 #cabecera #tagline{
   margin: 0 0 0 1em;
   font-weight: normal;
   font-size: 0.8em;
   
+}
+
+#post{
+  background: white;
+  padding: 1em;
 }
